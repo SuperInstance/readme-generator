@@ -1,3 +1,8 @@
 .env
 credentials.*
 *.secret
+target/
+Cargo.lock
+*.secret
+.env
+node_modules/
