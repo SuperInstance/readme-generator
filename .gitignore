@@ -1,8 +1,6 @@
+/target
+**/*.rs.bk
+*.pdb
 .env
+*.secret
 credentials.*
-*.secret
-target/
-Cargo.lock
-*.secret
-.env
-node_modules/
